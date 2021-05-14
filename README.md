@@ -3,6 +3,10 @@ Any one can update their blogs in this Repo
 
 ### Kathik Mothiki
 I've produced some Technical Content in various platforms.
+
+  - [**Hash Node**](https://karthikmothiki.hashnode.dev/)
+    - [Best 50 tips for Data Science](https://karthikmothiki.hashnode.dev/best-50-tips-for-data-science)
+  
   - [**Medium**](https://karthik-mothiki.medium.com/)
     - [The Booming Realities (AR/VR)](https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0)
     - [Valuable Deets for every Student](https://karthik-mothiki.medium.com/valuable-deets-for-every-student-2cd5af54bf50)
